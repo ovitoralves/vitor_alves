@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou [Vitor Alves] 👋</h1>
+<h1 align="center">Olá, eu sou o [Vitor Alves] 👋</h1>
 
 <p align="center">
-  [Uma frase curta sobre você, ex: Estudante de ADS apaixonado(a) por tecnologia]
+  ["Data Engineer in progress | SQL • Python • Cloud • ETL | Aprendendo, compartilhando conhecimento, construindo projetos para evoluir minhas habilidades e tranformar dados em soluções reais!"]
 </p>
 
 ---
@@ -10,9 +10,8 @@
 
 - 🎓 Formado em Análise e **Desenvolvimento de Sistemas (ADS)**
 - 🔭 Atualmente estudando: [Engenharia Agronômica]
-- 🌱 Aprendendo: [Data Engineer]
+- 🌱 Aprendendo: [Data Engineer, se especializando em claude data.]
 - 💬 Fale comigo sobre: [ASSUNTOS DE INTERESSE]
-- ⚡ Curiosidade: [Apaixonado em tecnologia e no campo!]
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -31,13 +30,13 @@
 
 ## 📫 Como me encontrar
 
-- GitHub: [@seu-usuario](https://github.com/[SEU USUÁRIO])
+- GitHub: [@ovitoralves](https://github.com/[ovitoralves])
 - LinkedIn: [Seu LinkedIn](https://linkedin.com/in/[SEU LINKEDIN])
-- E-mail: [seu-email@exemplo.com]
-- Instagram/Twitter: [se quiser incluir]
+- E-mail: [vitor.alves2006@outlook.com]
+- Instagram/Twitter: [https://www.instagram.com/vitor.dalves/]
 
 ---
 
 <p align="center">
-  [Uma frase de encerramento, citação ou call-to-action, ex: "Sempre em busca de aprender algo novo!"]
+  ["Cada projeto é um passo a mais rumo à excelência. Obrigado pela visita!"]
 </p>
