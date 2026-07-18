@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou [Vitor Alves] 👋</h1>
 
 <p align="center">
   [Uma frase curta sobre você, ex: Estudante de ADS apaixonado(a) por tecnologia]
@@ -8,12 +8,11 @@
 
 ## 🎓 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 📍 Localização: [SUA CIDADE/ESTADO]
-- 🔭 Atualmente estudando: [O QUE VOCÊ ESTÁ ESTUDANDO]
-- 🌱 Aprendendo: [TECNOLOGIA/FERRAMENTA]
+- 🎓 Formado em Análise e **Desenvolvimento de Sistemas (ADS)**
+- 🔭 Atualmente estudando: [Engenharia Agronômica]
+- 🌱 Aprendendo: [Data Engineer]
 - 💬 Fale comigo sobre: [ASSUNTOS DE INTERESSE]
-- ⚡ Curiosidade: [ALGO SOBRE VOCÊ]
+- ⚡ Curiosidade: [Apaixonado em tecnologia e no campo!]
 
 ## 🛠️ Tecnologias e ferramentas
 
